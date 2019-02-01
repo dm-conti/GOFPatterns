@@ -1,0 +1,10 @@
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\GOFPatternsTest.dll
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\GOFPatternsTest.pdb
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\GOFPatterns.exe
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\GOFPatterns.pdb
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\workspace\GOFPatterns\GOFPatternsTest\obj\Debug\GOFPatternsTest.csprojResolveAssemblyReference.cache
+C:\workspace\GOFPatterns\GOFPatternsTest\obj\Debug\GOFPatternsTest.dll
+C:\workspace\GOFPatterns\GOFPatternsTest\obj\Debug\GOFPatternsTest.pdb
+C:\workspace\GOFPatterns\GOFPatternsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
