@@ -6,3 +6,4 @@ C:\workspace\GOFPatterns\GOFPatterns\obj\Debug\GOFPatterns.pdb
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\nunit.framework.dll
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\nunit.framework.pdb
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\nunit.framework.xml
+C:\workspace\GOFPatterns\GOFPatterns\obj\Debug\GOFPatterns.csprojResolveAssemblyReference.cache

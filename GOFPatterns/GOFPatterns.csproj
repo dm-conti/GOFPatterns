@@ -50,6 +50,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Creational\AbstractFactory\AfricaFactory.cs" />
+    <Compile Include="Creational\AbstractFactory\AmericaFactory.cs" />
+    <Compile Include="Creational\AbstractFactory\AnimalWorld.cs" />
+    <Compile Include="Creational\AbstractFactory\Bison.cs" />
+    <Compile Include="Creational\AbstractFactory\Carnivore.cs" />
+    <Compile Include="Creational\AbstractFactory\ContinentFactory.cs" />
+    <Compile Include="Creational\AbstractFactory\Herbivore.cs" />
+    <Compile Include="Creational\AbstractFactory\Lion.cs" />
+    <Compile Include="Creational\AbstractFactory\Wildebeest.cs" />
+    <Compile Include="Creational\AbstractFactory\Wolf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Creational\Singleton\SimpleSingleton.cs" />
@@ -58,6 +68,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
