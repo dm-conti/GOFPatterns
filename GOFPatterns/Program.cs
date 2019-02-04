@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GOFPatterns.Singleton;
+using GOFPatterns.Creational.Singleton;
 
 namespace GOFPatterns
 {

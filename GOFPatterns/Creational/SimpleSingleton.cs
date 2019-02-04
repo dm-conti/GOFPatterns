@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Creational
+namespace GOFPatterns
 {
-    namespace GOFPatterns.Singleton
+    namespace Creational.Singleton
     {
         public class SimpleSingleton
         {

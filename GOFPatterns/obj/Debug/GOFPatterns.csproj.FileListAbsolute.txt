@@ -1,7 +1,6 @@
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\GOFPatterns.exe.config
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\GOFPatterns.exe
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\GOFPatterns.pdb
-C:\workspace\GOFPatterns\GOFPatterns\obj\Debug\GOFPatterns.csprojResolveAssemblyReference.cache
 C:\workspace\GOFPatterns\GOFPatterns\obj\Debug\GOFPatterns.exe
 C:\workspace\GOFPatterns\GOFPatterns\obj\Debug\GOFPatterns.pdb
 C:\workspace\GOFPatterns\GOFPatterns\bin\Debug\nunit.framework.dll

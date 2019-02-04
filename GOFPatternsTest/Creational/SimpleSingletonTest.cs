@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Creational.GOFPatterns.Singleton;
+using GOFPatterns.Creational.Singleton;
 
-namespace Creational
+namespace GOFPatternsTest
 {
-    namespace GOFPatternsTest
+    namespace Creational
     {
         [TestClass]
         public class SimpleSingletonTest
