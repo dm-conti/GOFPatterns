@@ -1,20 +1,23 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using GOFPatterns.Singleton;
+using Creational.GOFPatterns.Singleton;
 
-namespace GOFPatternsTest
+namespace Creational
 {
-    [TestClass]
-    public class SimpleSingletonTest
+    namespace GOFPatternsTest
     {
-        [TestMethod]
-        public void TestInstanceOfSimpleSingleton()
+        [TestClass]
+        public class SimpleSingletonTest
         {
-            SimpleSingleton source = SimpleSingleton.Instance;
+            [TestMethod]
+            public void TestInstanceOfSimpleSingleton()
+            {
+                SimpleSingleton source = SimpleSingleton.Instance;
 
-            SimpleSingleton target= SimpleSingleton.Instance;
+                SimpleSingleton target = SimpleSingleton.Instance;
 
-            Assert.AreSame(source, target);
+                Assert.AreSame(source, target);
+            }
         }
     }
 }

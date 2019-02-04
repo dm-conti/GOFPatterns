@@ -4,18 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GOFPatterns.Singleton
+namespace Creational
 {
-    public class SimpleSingleton
+    namespace GOFPatterns.Singleton
     {
-        private static SimpleSingleton instance = null;
-        public static SimpleSingleton Instance {
-            get
+        public class SimpleSingleton
+        {
+            private static SimpleSingleton instance = null;
+            public static SimpleSingleton Instance
             {
-                if (instance == null) {
-                    instance = new SimpleSingleton();
+                get
+                {
+                    if (instance == null)
+                    {
+                        instance = new SimpleSingleton();
+                    }
+                    return instance;
                 }
-                return instance;
             }
         }
     }
