@@ -4,18 +4,19 @@ using GOFPatterns.Creational.AbstractFactory;
 using Castle.Windsor;
 using Castle.MicroKernel.Registration;
 using GOFPatterns.Attribute;
+using Castle.Windsor.Configuration.Interpreters;
 
 namespace GOFPatternsTest.Creational
 {
     [TestClass]
-    public class AbstractFactoryTest
+    public class AbstractFactory_ManuallyRegistrationTest
     {
-        [Inject]
         private AfricaFactory africaFactory;
+
         private AmericaFactory americaFactory;
 
         [TestInitialize]
-        public void testInit()
+        public void testInit_manuallyRegistratin()
         {
             // create instance of the container
             WindsorContainer container = new WindsorContainer();

@@ -72,9 +72,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Creational\AbstractFactory_AppConfigRegistrationTest.cs" />
     <Compile Include="Creational\BuilderTest.cs" />
     <Compile Include="Creational\SimpleSingletonTest.cs" />
-    <Compile Include="Creational\AbstractFactoryTest.cs" />
+    <Compile Include="Creational\AbstractFactory_ManuallyRegistrationTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +85,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>
